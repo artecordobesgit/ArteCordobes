@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates
+END
+region.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/region.tpl.php
+END
+views-view.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/views-view.tpl.php
+END
+comment-wrapper.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/comment-wrapper.tpl.php
+END
+maintenance-page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/maintenance-page.tpl.php
+END
+block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/block.tpl.php
+END
+comment.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/comment.tpl.php
+END
+page.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/page.tpl.php
+END
+node.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/node.tpl.php
+END
+region-sidebar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/40/branches/0.1/src/drupal/sites/all/themes/zen/templates/region-sidebar.tpl.php
+END

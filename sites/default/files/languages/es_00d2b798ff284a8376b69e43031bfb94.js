@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function($n) { return Number(($n!=1)); }, 'strings': { "Next": "Próx.", "Close": "Cerrar", "Automatic alias": "Alias automático de ruta" } };

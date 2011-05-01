@@ -1,0 +1,84 @@
+10
+
+dir
+40
+https://ss-arte-cordobes.googlecode.com/svn/branches/0.1/src/drupal/sites/all/themes/zen/layouts
+https://ss-arte-cordobes.googlecode.com/svn
+
+
+
+2010-10-04T01:05:46.225378Z
+40
+juanllanes
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7dd91329-3c68-e80b-cc88-0a7a28ac16d1
+
+
+
+
+
+
+0
+
+README.txt
+file
+
+
+
+
+2010-10-02T23:38:45.490000Z
+a822ab02f5977e8ad47856d90ac4b371
+2010-10-04T01:05:46.225378Z
+40
+juanllanes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+329
+
+one_sidebar_first
+dir
+
+one_sidebar_second
+dir
+
+two_sidebars
+dir
+
+two_sidebars_first
+dir
+
+two_sidebars_second
+dir
+
